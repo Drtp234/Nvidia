@@ -1,4 +1,7 @@
 # Nvidia
+
+Tipografía: https://www.fontbolt.com/font/nvidia-geforce-font/
+
 Introducción:
 
 Nvidia es una empresa líder en tecnología de gráficos y procesamiento acelerado por GPU (Unidad de Procesamiento Gráfico, por sus siglas en inglés) con sede en Santa Clara, California. Fundada en 1993 por Jensen Huang, Chris Malachowsky y Curtis Priem, Nvidia ha experimentado un crecimiento significativo y se ha convertido en una empresa clave en la industria de la computación y la inteligencia artificial.
